@@ -50,6 +50,10 @@ namespace FootballTeamGenerator.Models
             }
         }  
         
+        /// <summary>
+        /// Adds new player to the team
+        /// </summary>
+        /// <param name="player"></param>
         public void AddPlayer (Player player)
         {
             
